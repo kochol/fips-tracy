@@ -1,0 +1,9 @@
+#
+# fips-tracy
+#
+---
+exports:
+    header-dirs : [ 'tracy/public'  ]
+    modules:
+        tracy:   tracy
+
